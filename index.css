@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Montserrat;
+}
+
+body { 
+    overflow-x:hidden; 
+}
+
+
+
+#landing {
+    background-image: url("https://t4.ftcdn.net/jpg/02/97/32/59/360_F_297325959_RUht1AyI03QQKCS7sXX9rFuC36KuoK66.jpg");
+    background-repeat: repeat-x;
+    background-size: cover;
+    font-family: Montserrat;
+    font-weight: 500;
+}
+
+
